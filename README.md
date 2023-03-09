@@ -23,3 +23,17 @@ Here are somes examples about how it works:
 
 ### DIVISION
 <img src=/Screenshots/DIV.png width="300"/>
+
+## Installation guide
+
+```bash
+$ git clone https://github.com/Pablo1300/C-Calculator.git
+```
+
+```bash 
+$ make
+```
+
+```bash
+$ ./main
+```
