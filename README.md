@@ -1,8 +1,19 @@
 # C-Calculator
 
 ## Sreenshots
-<img src=/Screenshots/MENU.png width="300"/> MENU
+Here are somes examples about how it works:
 
-<img src=/Screenshots/SUM.png width="300"/> SUMA <img src=/Screenshots/REST.png width="300"/> RESTA
+### MENU
+<img src=/Screenshots/MENU.png width="300"/>
 
-<img src=/Screenshots/MULT.png width="300"/> MULTIPLICATION <img src=/Screenshots/DIV.png width="300"/> DIVISION
+### ADDITION
+<img src=/Screenshots/SUM.png width="300"/> 
+
+### SUBTRACTION
+<img src=/Screenshots/REST.png width="300"/> 
+
+### MULTIPLICATION
+<img src=/Screenshots/MULT.png width="300"/>
+
+### DIVISION
+<img src=/Screenshots/DIV.png width="300"/>
