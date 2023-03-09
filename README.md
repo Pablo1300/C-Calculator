@@ -35,5 +35,5 @@ $ make
 ```
 
 ```bash
-$ ./main
+$ ./cCalculator
 ```
